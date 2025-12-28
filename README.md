@@ -1,0 +1,2 @@
+# gamescript-free
+GameScript
